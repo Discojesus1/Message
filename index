@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background-color: #202020;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+      }
+      .center-text {
+        color: white;
+        text-align: center;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 100;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="center-text">
+      <strong>Salut Mathieu. Je ne sais pas si tu trouveras ce texte. Si tu tombes dessus par hasard c'est assez incroyable.<br>
+	  Je vais te dire, tu sais que je ne suis pas trop du genre à dire ce genre de choses, mais là je vais faire un effort.<br>
+	  Tu es une des personnes les plus incroyables que j'ai jamais rencontré. Et c'est vraiment tout sauf des mots en l'air.<br>
+	  Avant de devenir ami avec toi, j'avais vraiment du mal à me figurer ce que pouvait être un vrai ami. Tu as honnètement défini ce mot pour moi<br>
+	  Tu es toujours présent, à l'écoute et de bon conseil. Tu sais être concret et réaliste quand on parle de sujets serieux, et tu sais me détruire<br>
+	  de rire quand je suis au plus bas. Je pense que je ne pourrais jamais être totalement triste en ta présence, tu me pousses trop vers le meilleur de moi même,<br>
+	  même sans faire grand chose. Nos débats sont aussi quelque chose que je cheri incroyablement, en plus de nos projets, de nos plans, de nos rèves etc...<br>
+	  Je sais que tu traverses une période difficile, je comprend vraiment ce que tu ressens (après tout on est a peu près les mêmes). Mais n'oublie pas<br>
+	  que tu as cet avantage de ne jamais laisser tomber, d'être extraordinairement diligeant dans tout ce que tu entreprends. Je sais que tu ne décevras jamais<br>
+	  personne d'autre que toi même. Passe au dessus de ce raccourcis et tu seras invincible. En tout cas sache que tu ne m'as jamais déçu.<br>
+	  Bonne chance pour la suite, et si tu veux un soutient imédiat, je t'invite a cliquer sur <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">ce lien</a>.
+    </div>
+  </body>
+</html>
